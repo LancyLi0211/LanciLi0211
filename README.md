@@ -1,35 +1,22 @@
 # Chunzhi Li
 
-## test
-### 目录                     
- 
-[1. 这是一个目录跳转示例](#1)
- 
-[2. 这是一个目录跳转示例](#2)   
- 
-[3. 这是一个目录跳转示例](#3)   
- 
- 
-<p id="1"></p>               
-[注意：此处要空一行]
-### 1. 这是一个目录跳转示例
- 
-内容
- 
-[返回目录](#目录)              ## 跳转到锚点 目录，CSDn 无法添加
- 
-<p id="2"></p>               ## 设定锚点 2
-[注意：此处要空一行]
-### 2. 这是一个目录跳转示例
- 
-内容
- 
-[返回目录](#目录)             ## 跳转到锚点 目录，CSDn 无法添加
- 
-<p id="3"></p>               ## 设定锚点 3
-[注意：此处要空一行]
-### 3. 这是一个目录跳转示例
- 
-内容
- 
-[返回目录](#目录)             ## 跳转到锚点 目录，CSDn 无法添加
+## Introduction
+
+22Fall Master's student majoring in Computer Science at Stevens Institute of Technology.
+
+## Skills
+- Programming Languages: Python, Java, JavaScript, C, C#
+- Database: MongoDB, MySQL, Neo4j
+
+
+## Research Interests 
+- Machine Learning
+- AI Utilization
+- Data Mining
+- NLP
+
+### Interests
+- Work Out
+- Badminton
+- Dancing(Breaking, Hip-Hop, Popping)
+- Animes
