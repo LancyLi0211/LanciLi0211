@@ -5,7 +5,7 @@
 22Fall Master's student majoring in Computer Science at Stevens Institute of Technology.
 
 ## Skills
-- Programming Languages: Python, Java, JavaScript, C, C#
+- Programming Languages: Python,JavaScript, Java,  C, C#
 - Database: MongoDB, MySQL, Neo4j
 
 
