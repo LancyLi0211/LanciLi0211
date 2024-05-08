@@ -10,10 +10,10 @@
 
 
 ## Research Interests 
-- Machine Learning
 - AI Utilization
 - Data Mining
 - NLP
+- Machine Learning
 
 ### Interests
 - Work Out
