@@ -12,7 +12,7 @@
 ## Research Interests 
 - AI Utilization
 - Data Mining
-- NLP
+- Nature Language Processing
 - Machine Learning
 
 ### Interests
