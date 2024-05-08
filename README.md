@@ -18,5 +18,5 @@
 ### Interests
 - Work Out
 - Badminton
-- Dancing(Breaking, Hip-Hop, Popping)
 - Animes
+- Dancing(Breaking, Hip-Hop, Popping)
