@@ -12,6 +12,8 @@
 
 
 ## Research Interests 
+- Eye Tracking
+- Human-Computer Interaction
 - AI Utilization
 - Data Mining
 - Nature Language Processing
