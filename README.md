@@ -2,7 +2,9 @@
 
 ## Introduction
 
-22Fall Master's student majoring in Computer Science at Stevens Institute of Technology.
+- 2022 Full Master's student majoring in Computer Science at Stevens Institute of Technology.
+- 2025 Spring PhD student majoring in Systems Engineering at Stevens Institute of Technology.
+
 
 ## Skills
 - Programming Languages: Python, JavaScript, Java, C, C#
